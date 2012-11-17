@@ -34,7 +34,14 @@ post '/nearby' => sub {
   $self->app->log->debug("walks: $walks");
   $self->app->log->debug("when called: $when_called"); 
 
-  $self->render(template => 'nearby', layout => 'base');
+  $self->stash('name', $name || "your dog");
+  $self->stash('motivation', $motivation);
+  $self->stash('new_dogs', $new_dogs);
+  $self->stash('new_people', $new_people);
+  $self->stash('walks', $walks);
+  $self->stash('when_called', $when_called);
+
+  $self->render(template => 'plan', layout => 'base');
 };
 
 app->start;
