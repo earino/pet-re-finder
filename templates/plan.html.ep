@@ -1,56 +1,53 @@
-  <form method="post">
-      <div data-role="fieldcontain">
-           <input type="text" placeholder="dogs name..." name="name" id="name" value=""  />
-      </div>
+<h2>You're going to spend some time looking in your nearby area, using your dog's personality to reunite you.</h2>
 
-      <p>Tell us a little bit about your dog so we can help you search more efficiently...</p>
+<p>Here are some suggestions to help you look in a methodical way:</p>
 
-      <legend>My dog:</legend>
+<div data-role="collapsible" data-collapsed="false">
+% if ($when_called eq "on") {
+  <h3><%= $name %> comes when called, so...</h3>
+Walk around nearby (within a few hundred feet of the house) calling for your dog with a calm voice.
+% } else {
+  <h3><%= $name %> runs the other way, so...</h3>
+Walk away from your house as if you were going on a walk, looking on streets & sidewalks for clues about your dog's journey
+% }
+</div>
 
-      <div data-role="fieldcontain">
-          <fieldset data-role="controlgroup" data-type="horizontal">
-                <input type="radio" name="when-called" id="radio-choice-c" value="on" checked="checked" />
-                <label for="radio-choice-c">Comes to you</label>
-                <input type="radio" name="when-called" id="radio-choice-d" value="off" />
-                <label for="radio-choice-d">Runs Away</label>
-          </fieldset>
-      </div>
+<div data-role="collapsible" data-collapsed="false">
+% if ($walks eq "on") {
+  <h3><%= $name %> likes to go on long walks, so...</h3>
+Look in a wider search area, since <%= $name %> may have traveled far!
+% } else {
+  <h3><%= $name %> likes to go on short walks, so...</h3>
+Look near your house.
+% }
+</div>
 
-      <div data-role="fieldcontain">
-          <fieldset data-role="controlgroup" data-type="horizontal">
-                <input type="radio" name="walks" id="radio-choice-c" value="on" checked="checked" />
-                <label for="radio-choice-c">Likes long walks</label>
-                <input type="radio" name="walks" id="radio-choice-d" value="off" />
-                <label for="radio-choice-d">Likes short walks</label>
-          </fieldset>
-      </div>
+<div data-role="collapsible" data-collapsed="false">
+% if ($new_people eq "on") {
+  <h3><%= $name %> is treat or food motivated, so...</h3>
+Take a favorite treat or treat jar, opening it up while you are walking. The noise & smell can get the dog's attention.
+% } else {
+  <h3><%= $name %> is motivated by toys and play, so...</h3>
+Take a favorite toy with you, move it around and make noises with it while you are walking. The noise & smell can get the dog's attention.
+% }
+</div>
 
-      <div data-role="fieldcontain">
-          <fieldset data-role="controlgroup" data-type="horizontal">
-                <input type="radio" name="motivation" id="radio-choice-c" value="on" checked="checked" />
-                <label for="radio-choice-c">Food Motivated</label>
-                <input type="radio" name="motivation" id="radio-choice-d" value="off" />
-                <label for="radio-choice-d">Toy Motivated</label>
-          </fieldset>
-      </div>
+<div data-role="collapsible" data-collapsed="false">
+% if ($new_people eq "on") {
+  <h3><%= $name %> likes new people, so...</h3>
+Have neighbors or others nearby help you.
+% } else {
+  <h3><%= $name %> is shy around new people, so... </h3>
+Have people the dog likes and will respond to help you look for the dog.
+% }
+</div>
 
-      <div data-role="fieldcontain">
-          <fieldset data-role="controlgroup" data-type="horizontal">
-                <input type="radio" name="new-people" id="radio-choice-c" value="on" checked="checked" />
-                <label for="radio-choice-c">Likes new people</label>
-                <input type="radio" name="new-people" id="radio-choice-d" value="off" />
-                <label for="radio-choice-d">Hides from people</label>
-          </fieldset>
-      </div>
-
-      <div data-role="fieldcontain">
-          <fieldset data-role="controlgroup" data-type="horizontal">
-                <input type="radio" name="new-dogs" id="radio-choice-c" value="on" checked="checked" />
-                <label for="radio-choice-c">Likes new dogs</label>
-                <input type="radio" name="new-dogs" id="radio-choice-d" value="off" />
-                <label for="radio-choice-d">Hides from dogs</label>
-          </fieldset>
-      </div>
-
-    <input type="submit" value="Ok! Show me the plan..."/>
-</form>
+<div data-role="collapsible" data-collapsed="false">
+% if ($new_dogs eq "on") {
+  <h3><%= $name %> likes new dogs, so...</h3>
+If you can, take another dog with you, and look in 'dog hotspots' nearby, like a neighborhood park.
+% } else {
+  <h3><%= $name %> is shy around new dogs, so...</h3>
+Look for places where the dog may be hiding, rather than where he may be roaming.
+% }
+</div>
