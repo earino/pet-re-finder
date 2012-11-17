@@ -1,0 +1,770 @@
+[Sat Nov 17 13:07:48 2012] [info] Listening at "http://*:3000".
+[Sat Nov 17 13:08:07 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 13:08:07 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:08:07 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:08:07 2012] [error] No handler for "el" available.
+[Sat Nov 17 13:08:07 2012] [debug] Nothing has been rendered, expecting delayed response.
+[Sat Nov 17 13:08:22 2012] [debug] Inactivity timeout.
+[Sat Nov 17 13:09:01 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 13:09:01 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:09:01 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:09:01 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 13:09:01 2012] [debug] Template "layouts/base.html.ep" not found.
+[Sat Nov 17 13:09:01 2012] [debug] 200 OK (0.008255s, 121.139/s).
+[Sat Nov 17 13:09:11 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:09:11 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:09:11 2012] [debug] Rendering cached template "index.html.ep".
+[Sat Nov 17 13:09:11 2012] [debug] Template "layouts/base.html.ep" not found.
+[Sat Nov 17 13:09:11 2012] [debug] 200 OK (0.001103s, 906.618/s).
+[Sat Nov 17 13:09:26 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 13:09:26 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:09:26 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:09:26 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 13:09:26 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 13:09:26 2012] [debug] 200 OK (0.011719s, 85.332/s).
+[Sat Nov 17 13:09:35 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:09:35 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:09:35 2012] [debug] Rendering cached template "index.html.ep".
+[Sat Nov 17 13:09:35 2012] [debug] Rendering cached template "layouts/base.html.ep".
+[Sat Nov 17 13:09:35 2012] [debug] 200 OK (0.001245s, 803.213/s).
+[Sat Nov 17 13:09:59 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:09:59 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:09:59 2012] [debug] Rendering cached template "index.html.ep".
+[Sat Nov 17 13:09:59 2012] [debug] Rendering cached template "layouts/base.html.ep".
+[Sat Nov 17 13:09:59 2012] [debug] 200 OK (0.001539s, 649.773/s).
+[Sat Nov 17 13:10:09 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:10:09 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:10:09 2012] [debug] Rendering cached template "index.html.ep".
+[Sat Nov 17 13:10:09 2012] [debug] Rendering cached template "layouts/base.html.ep".
+[Sat Nov 17 13:10:09 2012] [debug] 200 OK (0.002019s, 495.295/s).
+[Sat Nov 17 13:11:11 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 13:11:11 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:11:11 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:11:11 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 13:11:11 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 13:11:11 2012] [debug] 200 OK (0.014142s, 70.711/s).
+[Sat Nov 17 13:11:49 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 13:11:49 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:11:49 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:11:49 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 13:11:49 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 13:11:49 2012] [debug] 200 OK (0.016013s, 62.449/s).
+[Sat Nov 17 13:11:52 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:11:52 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:11:52 2012] [debug] Rendering cached template "index.html.ep".
+[Sat Nov 17 13:11:52 2012] [debug] Rendering cached template "layouts/base.html.ep".
+[Sat Nov 17 13:11:52 2012] [debug] 200 OK (0.002252s, 444.050/s).
+[Sat Nov 17 13:12:37 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 13:12:37 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:12:37 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:12:37 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 13:12:37 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 13:12:37 2012] [debug] 200 OK (0.013432s, 74.449/s).
+[Sat Nov 17 13:13:14 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 13:13:14 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:13:14 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:13:14 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 13:13:14 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 13:13:14 2012] [debug] 200 OK (0.014533s, 68.809/s).
+[Sat Nov 17 13:18:06 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 13:18:06 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:18:06 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:18:06 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 13:18:06 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 13:18:06 2012] [debug] 200 OK (0.013810s, 72.411/s).
+[Sat Nov 17 13:18:12 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 13:18:12 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:18:12 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:18:12 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 13:18:12 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 13:18:12 2012] [debug] 200 OK (0.011571s, 86.423/s).
+[Sat Nov 17 13:20:15 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 13:20:15 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:20:15 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:20:15 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 13:20:15 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 13:20:15 2012] [debug] 200 OK (0.012911s, 77.453/s).
+[Sat Nov 17 13:20:59 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 13:20:59 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:20:59 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:20:59 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 13:20:59 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 13:20:59 2012] [debug] 200 OK (0.013690s, 73.046/s).
+[Sat Nov 17 13:21:45 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 13:21:45 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:21:45 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:21:45 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 13:21:45 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 13:21:45 2012] [debug] 200 OK (0.012609s, 79.308/s).
+[Sat Nov 17 13:22:00 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 13:22:00 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:22:00 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:22:00 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 13:22:00 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 13:22:00 2012] [debug] 200 OK (0.012455s, 80.289/s).
+[Sat Nov 17 13:22:47 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 13:22:47 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:22:47 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:22:47 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 13:22:47 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 13:22:47 2012] [debug] 200 OK (0.012902s, 77.507/s).
+[Sat Nov 17 13:23:35 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 13:23:35 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:23:35 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:23:35 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 13:23:35 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 13:23:35 2012] [debug] 200 OK (0.012603s, 79.346/s).
+[Sat Nov 17 13:23:49 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 13:23:49 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:23:49 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:23:49 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 13:23:49 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 13:23:49 2012] [debug] 200 OK (0.011926s, 83.850/s).
+[Sat Nov 17 13:24:25 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 13:24:25 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:24:25 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:24:25 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 13:24:25 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 13:24:25 2012] [debug] 200 OK (0.012875s, 77.670/s).
+[Sat Nov 17 13:24:54 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 13:24:54 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:24:54 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:24:54 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 13:24:54 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 13:24:54 2012] [debug] 200 OK (0.013683s, 73.083/s).
+[Sat Nov 17 13:25:11 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 13:25:11 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:25:11 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:25:11 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 13:25:11 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 13:25:11 2012] [debug] 200 OK (0.013917s, 71.855/s).
+[Sat Nov 17 13:26:52 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 13:26:52 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:26:52 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:26:52 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 13:26:52 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 13:26:52 2012] [debug] 200 OK (0.012411s, 80.574/s).
+[Sat Nov 17 13:27:05 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 13:27:05 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:27:05 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:27:05 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 13:27:05 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 13:27:05 2012] [debug] 200 OK (0.013834s, 72.286/s).
+[Sat Nov 17 13:27:18 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 13:27:18 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:27:18 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:27:18 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 13:27:18 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 13:27:18 2012] [debug] 200 OK (0.016284s, 61.410/s).
+[Sat Nov 17 13:27:29 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 13:27:29 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:27:29 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:27:29 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 13:27:29 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 13:27:29 2012] [debug] 200 OK (0.014996s, 66.684/s).
+[Sat Nov 17 13:27:40 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 13:27:40 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:27:40 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:27:40 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 13:27:40 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 13:27:40 2012] [debug] 200 OK (0.014932s, 66.970/s).
+[Sat Nov 17 13:27:52 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 13:27:52 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:27:52 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:27:52 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 13:27:52 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 13:27:52 2012] [debug] 200 OK (0.013115s, 76.249/s).
+[Sat Nov 17 13:29:05 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 13:29:05 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:29:05 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:29:05 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 13:29:05 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 13:29:05 2012] [debug] 200 OK (0.013636s, 73.335/s).
+[Sat Nov 17 13:30:46 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 13:30:46 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:30:46 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:30:46 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 13:30:46 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 13:30:46 2012] [debug] 200 OK (0.013895s, 71.968/s).
+[Sat Nov 17 13:30:58 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 13:30:58 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:30:58 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:30:58 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 13:30:58 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 13:30:58 2012] [debug] 200 OK (0.013765s, 72.648/s).
+[Sat Nov 17 13:31:06 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:31:06 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:31:06 2012] [debug] Rendering cached template "index.html.ep".
+[Sat Nov 17 13:31:06 2012] [debug] Rendering cached template "layouts/base.html.ep".
+[Sat Nov 17 13:31:06 2012] [debug] 200 OK (0.001390s, 719.424/s).
+[Sat Nov 17 13:33:30 2012] [info] Listening at "http://*:3000".
+[Sat Nov 17 13:35:01 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 13:35:01 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:35:01 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:35:01 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 13:35:01 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 13:35:01 2012] [debug] 200 OK (0.014945s, 66.912/s).
+[Sat Nov 17 13:35:16 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 13:35:16 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:35:16 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:35:16 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 13:35:16 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 13:35:16 2012] [debug] 200 OK (0.017075s, 58.565/s).
+[Sat Nov 17 13:37:13 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 13:37:13 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:37:13 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:37:13 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 13:37:13 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 13:37:13 2012] [debug] 200 OK (0.018564s, 53.868/s).
+[Sat Nov 17 13:37:19 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:37:19 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:37:19 2012] [debug] Rendering cached template "index.html.ep".
+[Sat Nov 17 13:37:19 2012] [debug] Rendering cached template "layouts/base.html.ep".
+[Sat Nov 17 13:37:19 2012] [debug] 200 OK (0.001568s, 637.755/s).
+[Sat Nov 17 13:37:30 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 13:37:30 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:37:30 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:37:30 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 13:37:30 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 13:37:30 2012] [debug] 200 OK (0.013697s, 73.009/s).
+[Sat Nov 17 13:37:46 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 13:37:46 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:37:46 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:37:46 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 13:37:46 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 13:37:46 2012] [debug] 200 OK (0.015261s, 65.527/s).
+[Sat Nov 17 13:37:55 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 13:37:55 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:37:55 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:37:55 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 13:37:55 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 13:37:55 2012] [debug] 200 OK (0.013634s, 73.346/s).
+[Sat Nov 17 13:38:56 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 13:38:56 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:38:56 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:38:56 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 13:38:56 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 13:38:56 2012] [debug] 200 OK (0.016698s, 59.887/s).
+[Sat Nov 17 13:39:15 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 13:39:15 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:39:15 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:39:15 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 13:39:15 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 13:39:15 2012] [debug] 200 OK (0.014503s, 68.951/s).
+[Sat Nov 17 13:39:27 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 13:39:27 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:39:27 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:39:27 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 13:39:27 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 13:39:27 2012] [debug] 200 OK (0.015182s, 65.867/s).
+[Sat Nov 17 13:39:46 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 13:39:46 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:39:46 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:39:46 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 13:39:46 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 13:39:46 2012] [debug] 200 OK (0.015553s, 64.296/s).
+[Sat Nov 17 13:41:18 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 13:41:18 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:41:18 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:41:18 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 13:41:18 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 13:41:18 2012] [debug] 200 OK (0.016615s, 60.187/s).
+[Sat Nov 17 13:41:23 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 13:41:23 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:41:23 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:41:23 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 13:41:23 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 13:41:23 2012] [debug] 200 OK (0.013997s, 71.444/s).
+[Sat Nov 17 13:44:33 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 13:44:33 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:44:33 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:44:33 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 13:44:33 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 13:44:33 2012] [debug] 200 OK (0.014856s, 67.313/s).
+[Sat Nov 17 13:45:43 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 13:45:43 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:45:43 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:45:43 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 13:45:43 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 13:45:43 2012] [debug] 200 OK (0.014667s, 68.180/s).
+[Sat Nov 17 13:49:23 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 13:49:23 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:49:23 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:49:23 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 13:49:23 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 13:49:23 2012] [debug] 200 OK (0.017052s, 58.644/s).
+[Sat Nov 17 13:50:20 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 13:50:20 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:50:20 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:50:20 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 13:50:20 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 13:50:20 2012] [debug] 200 OK (0.018540s, 53.937/s).
+[Sat Nov 17 13:50:53 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 13:50:53 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:50:53 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:50:53 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 13:50:53 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 13:50:53 2012] [debug] 200 OK (0.019399s, 51.549/s).
+[Sat Nov 17 13:51:29 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 13:51:29 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:51:29 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:51:29 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 13:51:29 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 13:51:29 2012] [debug] 200 OK (0.016815s, 59.471/s).
+[Sat Nov 17 13:51:56 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 13:51:56 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:51:56 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:51:56 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 13:51:56 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 13:51:56 2012] [debug] 200 OK (0.016373s, 61.076/s).
+[Sat Nov 17 13:52:04 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 13:52:04 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:52:04 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:52:04 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 13:52:04 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 13:52:04 2012] [debug] 200 OK (0.019302s, 51.808/s).
+[Sat Nov 17 13:52:12 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 13:52:12 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:52:12 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:52:12 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 13:52:12 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 13:52:12 2012] [debug] 200 OK (0.021198s, 47.174/s).
+[Sat Nov 17 13:52:53 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:52:53 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:52:53 2012] [debug] Rendering cached template "index.html.ep".
+[Sat Nov 17 13:52:53 2012] [debug] Rendering cached template "layouts/base.html.ep".
+[Sat Nov 17 13:52:53 2012] [debug] 200 OK (0.001447s, 691.085/s).
+[Sat Nov 17 13:52:58 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 13:52:58 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:52:58 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:52:58 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 13:52:58 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 13:52:58 2012] [debug] 200 OK (0.016309s, 61.316/s).
+[Sat Nov 17 13:53:04 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:53:04 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:53:04 2012] [debug] Rendering cached template "index.html.ep".
+[Sat Nov 17 13:53:04 2012] [debug] Rendering cached template "layouts/base.html.ep".
+[Sat Nov 17 13:53:04 2012] [debug] 200 OK (0.001685s, 593.472/s).
+[Sat Nov 17 13:53:44 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 13:53:44 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:53:44 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:53:44 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 13:53:44 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 13:53:44 2012] [debug] 200 OK (0.015905s, 62.873/s).
+[Sat Nov 17 13:57:27 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 13:57:27 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:57:27 2012] [debug] Template "not_found.development.html.ep" not found.
+[Sat Nov 17 13:57:27 2012] [debug] Template "not_found.html.ep" not found.
+[Sat Nov 17 13:57:27 2012] [debug] Rendering inline template.
+[Sat Nov 17 13:57:27 2012] [debug] Rendering inline template.
+[Sat Nov 17 13:57:27 2012] [debug] 404 Not Found (0.036965s, 27.053/s).
+[Sat Nov 17 13:57:38 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 13:57:38 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:57:38 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:57:38 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 13:57:38 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 13:57:38 2012] [debug] 200 OK (0.018110s, 55.218/s).
+[Sat Nov 17 13:58:33 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 13:58:33 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:58:33 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:58:33 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 13:58:33 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 13:58:33 2012] [debug] 200 OK (0.014144s, 70.701/s).
+[Sat Nov 17 13:59:38 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 13:59:38 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 13:59:38 2012] [debug] Routing to a callback.
+[Sat Nov 17 13:59:38 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 13:59:38 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 13:59:38 2012] [debug] 200 OK (0.013861s, 72.145/s).
+[Sat Nov 17 14:00:37 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 14:00:37 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:00:37 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:00:37 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 14:00:37 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 14:00:37 2012] [debug] 200 OK (0.013024s, 76.781/s).
+[Sat Nov 17 14:01:51 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 14:01:51 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:01:51 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:01:51 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 14:01:51 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 14:01:51 2012] [debug] 200 OK (0.012897s, 77.537/s).
+[Sat Nov 17 14:02:10 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 14:02:10 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:02:10 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:02:10 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 14:02:10 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 14:02:10 2012] [debug] 200 OK (0.011397s, 87.742/s).
+[Sat Nov 17 14:03:45 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 14:03:45 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:03:45 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:03:45 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 14:03:45 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 14:03:45 2012] [debug] 200 OK (0.013042s, 76.675/s).
+[Sat Nov 17 14:03:57 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 14:03:57 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:03:57 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:03:57 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 14:03:57 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 14:03:57 2012] [debug] 200 OK (0.012800s, 78.125/s).
+[Sat Nov 17 14:04:10 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 14:04:10 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:04:10 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:04:10 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 14:04:10 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 14:04:10 2012] [debug] 200 OK (0.012426s, 80.476/s).
+[Sat Nov 17 14:04:29 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 14:04:29 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:04:29 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:04:29 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 14:04:29 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 14:04:29 2012] [debug] 200 OK (0.013740s, 72.780/s).
+[Sat Nov 17 14:04:39 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 14:04:39 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:04:39 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:04:39 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 14:04:39 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 14:04:39 2012] [debug] 200 OK (0.012597s, 79.384/s).
+[Sat Nov 17 14:04:56 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 14:04:56 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:04:56 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:04:56 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 14:04:56 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 14:04:56 2012] [debug] 200 OK (0.016242s, 61.569/s).
+[Sat Nov 17 14:06:26 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 14:06:26 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:06:26 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:06:26 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 14:06:26 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 14:06:26 2012] [debug] 200 OK (0.012460s, 80.257/s).
+[Sat Nov 17 14:06:42 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 14:06:42 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:06:42 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:06:42 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 14:06:42 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 14:06:42 2012] [debug] 200 OK (0.012724s, 78.592/s).
+[Sat Nov 17 14:07:07 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 14:07:07 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:07:07 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:07:07 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 14:07:07 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 14:07:07 2012] [debug] 200 OK (0.012598s, 79.378/s).
+[Sat Nov 17 14:07:08 2012] [debug] GET /nearby (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:07:08 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:07:08 2012] [debug] Rendering template "nearby.html.ep".
+[Sat Nov 17 14:07:08 2012] [debug] Rendering cached template "layouts/base.html.ep".
+[Sat Nov 17 14:07:08 2012] [debug] 200 OK (0.010170s, 98.328/s).
+[Sat Nov 17 14:07:31 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 14:07:31 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:07:31 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:07:31 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 14:07:31 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 14:07:31 2012] [debug] 200 OK (0.011754s, 85.077/s).
+[Sat Nov 17 14:07:49 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 14:07:49 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:07:49 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:07:49 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 14:07:49 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 14:07:49 2012] [debug] 200 OK (0.011902s, 84.019/s).
+[Sat Nov 17 14:07:51 2012] [debug] GET /nearby (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:07:51 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:07:51 2012] [debug] Rendering template "nearby.html.ep".
+[Sat Nov 17 14:07:51 2012] [debug] Rendering cached template "layouts/base.html.ep".
+[Sat Nov 17 14:07:51 2012] [debug] 200 OK (0.009696s, 103.135/s).
+[Sat Nov 17 14:07:58 2012] [debug] GET /nearby (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:07:58 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:07:58 2012] [debug] Rendering cached template "nearby.html.ep".
+[Sat Nov 17 14:07:58 2012] [debug] Rendering cached template "layouts/base.html.ep".
+[Sat Nov 17 14:07:58 2012] [debug] 200 OK (0.001876s, 533.049/s).
+[Sat Nov 17 14:09:22 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 14:09:22 2012] [debug] GET /nearby (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:09:22 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:09:22 2012] [debug] Rendering template "nearby.html.ep".
+[Sat Nov 17 14:09:22 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 14:09:22 2012] [debug] 200 OK (0.017668s, 56.600/s).
+[Sat Nov 17 14:09:40 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 14:09:40 2012] [debug] GET /nearby (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:09:40 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:09:40 2012] [debug] Rendering template "nearby.html.ep".
+[Sat Nov 17 14:09:40 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 14:09:40 2012] [debug] 200 OK (0.020326s, 49.198/s).
+[Sat Nov 17 14:09:57 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 14:09:57 2012] [debug] GET /nearby (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:09:57 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:09:57 2012] [debug] Rendering template "nearby.html.ep".
+[Sat Nov 17 14:09:57 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 14:09:57 2012] [debug] 200 OK (0.019754s, 50.623/s).
+[Sat Nov 17 14:10:20 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 14:10:20 2012] [debug] GET /nearby (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:10:20 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:10:20 2012] [debug] Rendering template "nearby.html.ep".
+[Sat Nov 17 14:10:20 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 14:10:20 2012] [debug] 200 OK (0.022766s, 43.925/s).
+[Sat Nov 17 14:11:16 2012] [debug] GET /nearby (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:11:16 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:11:16 2012] [debug] Rendering cached template "nearby.html.ep".
+[Sat Nov 17 14:11:16 2012] [debug] Rendering cached template "layouts/base.html.ep".
+[Sat Nov 17 14:11:16 2012] [debug] 200 OK (0.001406s, 711.238/s).
+[Sat Nov 17 14:11:19 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:11:19 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:11:19 2012] [debug] Rendering template "index.html.ep".
+[Sat Nov 17 14:11:19 2012] [debug] Rendering cached template "layouts/base.html.ep".
+[Sat Nov 17 14:11:19 2012] [debug] 200 OK (0.012731s, 78.548/s).
+[Sat Nov 17 14:12:40 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 14:12:40 2012] [debug] GET /nearby (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:12:40 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:12:40 2012] [debug] Rendering template "nearby.html.ep".
+[Sat Nov 17 14:12:40 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 14:12:40 2012] [debug] 200 OK (0.019104s, 52.345/s).
+[Sat Nov 17 14:13:28 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 14:13:28 2012] [debug] GET /nearby (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:13:28 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:13:28 2012] [debug] Rendering template "nearby.html.ep".
+[Sat Nov 17 14:13:28 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 14:13:28 2012] [debug] 200 OK (0.020534s, 48.700/s).
+[Sat Nov 17 14:13:44 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 14:13:44 2012] [debug] GET /nearby (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:13:44 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:13:44 2012] [debug] Rendering template "nearby.html.ep".
+[Sat Nov 17 14:13:44 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 14:13:44 2012] [debug] 200 OK (0.021227s, 47.110/s).
+[Sat Nov 17 14:15:20 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 14:15:20 2012] [debug] GET /nearby (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:15:20 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:15:20 2012] [debug] Rendering template "nearby.html.ep".
+[Sat Nov 17 14:15:20 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 14:15:20 2012] [debug] 200 OK (0.017671s, 56.590/s).
+[Sat Nov 17 14:17:45 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 14:17:45 2012] [debug] GET /nearby (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:17:45 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:17:45 2012] [debug] Rendering template "nearby.html.ep".
+[Sat Nov 17 14:17:45 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 14:17:45 2012] [debug] 200 OK (0.021747s, 45.983/s).
+[Sat Nov 17 14:18:14 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 14:18:14 2012] [debug] GET /nearby (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:18:14 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:18:14 2012] [debug] Rendering template "nearby.html.ep".
+[Sat Nov 17 14:18:14 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 14:18:14 2012] [debug] 200 OK (0.019710s, 50.736/s).
+[Sat Nov 17 14:18:48 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 14:18:48 2012] [debug] GET /nearby (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:18:48 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:18:48 2012] [debug] Rendering template "nearby.html.ep".
+[Sat Nov 17 14:18:48 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 14:18:48 2012] [debug] 200 OK (0.024235s, 41.263/s).
+[Sat Nov 17 14:19:50 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 14:19:50 2012] [debug] GET /nearby (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:19:50 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:19:50 2012] [debug] Rendering template "nearby.html.ep".
+[Sat Nov 17 14:19:50 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 14:19:50 2012] [debug] 200 OK (0.036536s, 27.370/s).
+[Sat Nov 17 14:20:18 2012] [debug] GET /nearby (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:20:18 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:20:18 2012] [debug] Rendering cached template "nearby.html.ep".
+[Sat Nov 17 14:20:18 2012] [debug] Rendering cached template "layouts/base.html.ep".
+[Sat Nov 17 14:20:18 2012] [debug] 200 OK (0.005401s, 185.151/s).
+[Sat Nov 17 14:21:23 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 14:21:23 2012] [debug] GET /nearby (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:21:23 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:21:23 2012] [debug] Rendering template "nearby.html.ep".
+[Sat Nov 17 14:21:23 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 14:21:23 2012] [debug] 200 OK (0.026640s, 37.538/s).
+[Sat Nov 17 14:21:41 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 14:21:41 2012] [debug] GET /nearby (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:21:41 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:21:41 2012] [debug] Rendering template "nearby.html.ep".
+[Sat Nov 17 14:21:41 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 14:21:41 2012] [debug] 200 OK (0.019215s, 52.043/s).
+[Sat Nov 17 14:21:47 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 14:21:47 2012] [debug] GET /nearby (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:21:47 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:21:47 2012] [debug] Rendering template "nearby.html.ep".
+[Sat Nov 17 14:21:47 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 14:21:47 2012] [debug] 200 OK (0.017726s, 56.414/s).
+[Sat Nov 17 14:21:54 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 14:21:54 2012] [debug] GET /nearby (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:21:54 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:21:54 2012] [debug] Rendering template "nearby.html.ep".
+[Sat Nov 17 14:21:54 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 14:21:54 2012] [debug] 200 OK (0.021505s, 46.501/s).
+[Sat Nov 17 14:22:01 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 14:22:01 2012] [debug] GET /nearby (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:22:01 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:22:01 2012] [debug] Rendering template "nearby.html.ep".
+[Sat Nov 17 14:22:01 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 14:22:01 2012] [debug] 200 OK (0.022276s, 44.891/s).
+[Sat Nov 17 14:22:06 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 14:22:06 2012] [debug] GET /nearby (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:22:06 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:22:06 2012] [debug] Rendering template "nearby.html.ep".
+[Sat Nov 17 14:22:06 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 14:22:06 2012] [debug] 200 OK (0.018879s, 52.969/s).
+[Sat Nov 17 14:24:30 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 14:24:30 2012] [debug] GET /nearby (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:24:30 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:24:30 2012] [debug] Rendering template "nearby.html.ep".
+[Sat Nov 17 14:24:30 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 14:24:30 2012] [debug] 200 OK (0.027142s, 36.843/s).
+[Sat Nov 17 14:24:38 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 14:24:38 2012] [debug] GET /nearby (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:24:38 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:24:38 2012] [debug] Rendering template "nearby.html.ep".
+[Sat Nov 17 14:24:38 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 14:24:38 2012] [debug] 200 OK (0.013481s, 74.178/s).
+[Sat Nov 17 14:24:58 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 14:24:58 2012] [debug] GET /nearby (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:24:58 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:24:58 2012] [debug] Rendering template "nearby.html.ep".
+[Sat Nov 17 14:24:58 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 14:24:58 2012] [debug] 200 OK (0.015883s, 62.960/s).
+[Sat Nov 17 14:25:19 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 14:25:19 2012] [debug] GET /nearby (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:25:19 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:25:19 2012] [debug] Rendering template "nearby.html.ep".
+[Sat Nov 17 14:25:19 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 14:25:19 2012] [debug] 200 OK (0.016590s, 60.277/s).
+[Sat Nov 17 14:26:06 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 14:26:06 2012] [debug] GET /nearby (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:26:06 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:26:06 2012] [debug] Rendering template "nearby.html.ep".
+[Sat Nov 17 14:26:06 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 14:26:06 2012] [debug] 200 OK (0.014979s, 66.760/s).
+[Sat Nov 17 14:26:22 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 14:26:22 2012] [debug] GET /nearby (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:26:22 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:26:22 2012] [debug] Rendering template "nearby.html.ep".
+[Sat Nov 17 14:26:22 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 14:26:22 2012] [debug] 200 OK (0.015042s, 66.481/s).
+[Sat Nov 17 14:26:26 2012] [debug] POST /nearby (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:26:26 2012] [debug] Template "not_found.development.html.ep" not found.
+[Sat Nov 17 14:26:26 2012] [debug] Template "not_found.html.ep" not found.
+[Sat Nov 17 14:26:26 2012] [debug] Rendering inline template.
+[Sat Nov 17 14:26:26 2012] [debug] Rendering inline template.
+[Sat Nov 17 14:26:26 2012] [debug] 404 Not Found (0.025328s, 39.482/s).
+[Sat Nov 17 14:28:01 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 14:28:01 2012] [debug] POST /nearby (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:28:01 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:28:01 2012] [debug] Rendering template "nearby.html.ep".
+[Sat Nov 17 14:28:01 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 14:28:01 2012] [debug] 200 OK (0.023635s, 42.310/s).
+[Sat Nov 17 14:29:26 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 14:29:26 2012] [debug] POST /nearby (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:29:26 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:29:26 2012] [debug] Rendering template "nearby.html.ep".
+[Sat Nov 17 14:29:26 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 14:29:26 2012] [debug] 200 OK (0.014237s, 70.240/s).
+[Sat Nov 17 14:30:25 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 14:30:25 2012] [debug] GET /nearby (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:30:25 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:30:25 2012] [debug] Rendering template "nearby.html.ep".
+[Sat Nov 17 14:30:25 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 14:30:25 2012] [debug] 200 OK (0.013621s, 73.416/s).
+[Sat Nov 17 14:30:59 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 14:30:59 2012] [debug] GET /nearby (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:30:59 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:30:59 2012] [debug] Rendering template "nearby.html.ep".
+[Sat Nov 17 14:30:59 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 14:31:00 2012] [debug] 200 OK (0.016640s, 60.096/s).
+[Sat Nov 17 14:31:04 2012] [debug] POST /nearby (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:31:04 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:31:04 2012] [debug] Rendering cached template "nearby.html.ep".
+[Sat Nov 17 14:31:04 2012] [debug] Rendering cached template "layouts/base.html.ep".
+[Sat Nov 17 14:31:04 2012] [debug] 200 OK (0.002258s, 442.870/s).
+[Sat Nov 17 14:31:11 2012] [debug] POST /nearby (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:31:11 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:31:11 2012] [debug] Rendering cached template "nearby.html.ep".
+[Sat Nov 17 14:31:11 2012] [debug] Rendering cached template "layouts/base.html.ep".
+[Sat Nov 17 14:31:11 2012] [debug] 200 OK (0.002624s, 381.098/s).
+[Sat Nov 17 14:34:35 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 14:34:35 2012] [debug] POST /nearby (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:34:35 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:35:00 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 14:35:00 2012] [debug] POST /nearby (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:35:00 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:35:00 2012] [debug] name: 
+[Sat Nov 17 14:35:00 2012] [debug] motivation: on
+[Sat Nov 17 14:35:00 2012] [debug] new dogs: on
+[Sat Nov 17 14:35:00 2012] [debug] new people: on
+[Sat Nov 17 14:35:00 2012] [debug] walks: on
+[Sat Nov 17 14:35:00 2012] [debug] when called: on
+[Sat Nov 17 14:35:00 2012] [debug] Rendering template "nearby.html.ep".
+[Sat Nov 17 14:35:00 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 14:35:00 2012] [debug] 200 OK (0.014857s, 67.308/s).
+[Sat Nov 17 14:35:13 2012] [info] Listening at "http://*:3000".
+[Sat Nov 17 14:35:20 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 14:35:20 2012] [debug] POST /nearby (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:35:20 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:35:20 2012] [debug] name: 
+[Sat Nov 17 14:35:20 2012] [debug] motivation: on
+[Sat Nov 17 14:35:20 2012] [debug] new dogs: on
+[Sat Nov 17 14:35:20 2012] [debug] new people: on
+[Sat Nov 17 14:35:20 2012] [debug] walks: on
+[Sat Nov 17 14:35:20 2012] [debug] when called: off
+[Sat Nov 17 14:35:20 2012] [debug] Rendering template "nearby.html.ep".
+[Sat Nov 17 14:35:20 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 14:35:20 2012] [debug] 200 OK (0.014511s, 68.913/s).
+[Sat Nov 17 14:35:43 2012] [debug] POST /nearby (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:35:43 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:35:43 2012] [debug] name: dangle
+[Sat Nov 17 14:35:43 2012] [debug] motivation: off
+[Sat Nov 17 14:35:43 2012] [debug] new dogs: off
+[Sat Nov 17 14:35:43 2012] [debug] new people: off
+[Sat Nov 17 14:35:43 2012] [debug] walks: off
+[Sat Nov 17 14:35:43 2012] [debug] when called: off
+[Sat Nov 17 14:35:43 2012] [debug] Rendering cached template "nearby.html.ep".
+[Sat Nov 17 14:35:43 2012] [debug] Rendering cached template "layouts/base.html.ep".
+[Sat Nov 17 14:35:43 2012] [debug] 200 OK (0.001971s, 507.357/s).
+[Sat Nov 17 14:36:23 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 17 14:36:23 2012] [debug] GET /nearby (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:36:23 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:36:23 2012] [debug] Rendering template "nearby.html.ep".
+[Sat Nov 17 14:36:23 2012] [debug] Rendering template "layouts/base.html.ep".
+[Sat Nov 17 14:36:23 2012] [debug] 200 OK (0.017900s, 55.866/s).
+[Sat Nov 17 14:36:30 2012] [debug] GET /nearby (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:36:30 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:36:30 2012] [debug] Rendering cached template "nearby.html.ep".
+[Sat Nov 17 14:36:30 2012] [debug] Rendering cached template "layouts/base.html.ep".
+[Sat Nov 17 14:36:30 2012] [debug] 200 OK (0.003350s, 298.507/s).
+[Sat Nov 17 14:36:33 2012] [debug] POST /nearby (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:36:33 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:36:33 2012] [debug] name: 
+[Sat Nov 17 14:36:33 2012] [debug] motivation: on
+[Sat Nov 17 14:36:33 2012] [debug] new dogs: on
+[Sat Nov 17 14:36:33 2012] [debug] new people: on
+[Sat Nov 17 14:36:33 2012] [debug] walks: on
+[Sat Nov 17 14:36:33 2012] [debug] when called: on
+[Sat Nov 17 14:36:33 2012] [debug] Rendering cached template "nearby.html.ep".
+[Sat Nov 17 14:36:33 2012] [debug] Rendering cached template "layouts/base.html.ep".
+[Sat Nov 17 14:36:33 2012] [debug] 200 OK (0.002390s, 418.410/s).
+[Sat Nov 17 14:36:35 2012] [debug] POST /nearby (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:36:35 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:36:35 2012] [debug] name: 
+[Sat Nov 17 14:36:35 2012] [debug] motivation: on
+[Sat Nov 17 14:36:35 2012] [debug] new dogs: on
+[Sat Nov 17 14:36:35 2012] [debug] new people: on
+[Sat Nov 17 14:36:35 2012] [debug] walks: on
+[Sat Nov 17 14:36:35 2012] [debug] when called: on
+[Sat Nov 17 14:36:35 2012] [debug] Rendering cached template "nearby.html.ep".
+[Sat Nov 17 14:36:35 2012] [debug] Rendering cached template "layouts/base.html.ep".
+[Sat Nov 17 14:36:35 2012] [debug] 200 OK (0.002310s, 432.900/s).
+[Sat Nov 17 14:36:36 2012] [debug] POST /nearby (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:36:36 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:36:36 2012] [debug] name: 
+[Sat Nov 17 14:36:36 2012] [debug] motivation: on
+[Sat Nov 17 14:36:36 2012] [debug] new dogs: on
+[Sat Nov 17 14:36:36 2012] [debug] new people: on
+[Sat Nov 17 14:36:36 2012] [debug] walks: on
+[Sat Nov 17 14:36:36 2012] [debug] when called: on
+[Sat Nov 17 14:36:36 2012] [debug] Rendering cached template "nearby.html.ep".
+[Sat Nov 17 14:36:36 2012] [debug] Rendering cached template "layouts/base.html.ep".
+[Sat Nov 17 14:36:36 2012] [debug] 200 OK (0.002655s, 376.648/s).
+[Sat Nov 17 14:36:37 2012] [debug] POST /nearby (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11).
+[Sat Nov 17 14:36:37 2012] [debug] Routing to a callback.
+[Sat Nov 17 14:36:37 2012] [debug] name: 
+[Sat Nov 17 14:36:37 2012] [debug] motivation: on
+[Sat Nov 17 14:36:37 2012] [debug] new dogs: on
+[Sat Nov 17 14:36:37 2012] [debug] new people: on
+[Sat Nov 17 14:36:37 2012] [debug] walks: on
+[Sat Nov 17 14:36:37 2012] [debug] when called: on
+[Sat Nov 17 14:36:37 2012] [debug] Rendering cached template "nearby.html.ep".
+[Sat Nov 17 14:36:37 2012] [debug] Rendering cached template "layouts/base.html.ep".
+[Sat Nov 17 14:36:37 2012] [debug] 200 OK (0.002193s, 455.996/s).

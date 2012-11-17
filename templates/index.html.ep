@@ -1,0 +1,13 @@
+<label><input type="checkbox" name="checkbox-0" />Bathrooms</label>
+<label><input type="checkbox" name="checkbox-0" />Closets</label>
+<label><input type="checkbox" name="checkbox-0" />Bedrooms</label>
+<label><input type="checkbox" name="checkbox-0" />Cabinets</label>
+<label><input type="checkbox" name="checkbox-0" />Favorite Hiding Spots</label>
+<label><input type="checkbox" name="checkbox-0" />Kitchen</label>
+<label><input type="checkbox" name="checkbox-0" />Under Furniture</label>
+<label><input type="checkbox" name="checkbox-0" />Under Beds</label>
+<label><input type="checkbox" name="checkbox-0" />Back Yard</label>
+<label><input type="checkbox" name="checkbox-0" />Front Yard</label>
+<label><input type="checkbox" name="checkbox-0" />Garage</label>
+
+<a href="/nearby" data-role="button">Let's search nearby...</a>
