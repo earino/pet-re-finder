@@ -1,4 +1,43 @@
-<h2>You're going to spend some time looking in your nearby area, using your dog's personality to reunite you.</h2>
+<script language="javascript">
+$(document).ready(function(){
+  $('#motivateMsg').hide();
+function zeroFill( number, width )
+{
+  width -= number.toString().length;
+  if ( width > 0 )
+  {
+    return new Array( width + (/\./.test( number ) ? 2 : 1) ).join( '0' ) + number;
+  }
+  return number + ""; // always return a string
+}
+
+var sec = 60; // * 30;
+var timer = setInterval(function() {
+   var minutes = parseInt(sec / 60);
+   var seconds = zeroFill(sec % 60, 2);
+   var timeval = "" + minutes + ":" + seconds;
+   $('#hideMsg span').text(timeval);
+
+   sec--;
+
+   if (sec == -1) {
+      alert("Time is up");
+      $('#hideMsg').fadeOut('fast');
+      $('#motivateMsg').fadeIn('fast');
+      clearInterval(timer);
+   } 
+}, 1000);
+});
+</script>
+
+<div id="hideMsg">
+<h2>You're going to spend <span>30:00</span> minutes looking in your nearby area, using your dog's personality to reunite you.</h2>
+</div>
+
+<div id="motivateMsg">
+  <h2>If you haven't found <%= $name %> yet, it's time to get everyone involved.</h2>
+  <a href="/launch" data-role="button">CLICK ME TO GET HELP!</a>
+</div>
 
 <p>Here are some suggestions to help you look in a methodical way:</p>
 

@@ -19,36 +19,36 @@
       <div data-role="fieldcontain">
           <fieldset data-role="controlgroup" data-type="horizontal">
                 <input type="radio" name="walks" id="radio-choice-c" value="on" checked="checked" />
-                <label for="radio-choice-c">Likes long walks</label>
+                <label for="radio-choice-c">♥ long walks</label>
                 <input type="radio" name="walks" id="radio-choice-d" value="off" />
-                <label for="radio-choice-d">Likes short walks</label>
+                <label for="radio-choice-d">♥ short walks</label>
           </fieldset>
       </div>
 
       <div data-role="fieldcontain">
           <fieldset data-role="controlgroup" data-type="horizontal">
                 <input type="radio" name="motivation" id="radio-choice-c" value="on" checked="checked" />
-                <label for="radio-choice-c">Food Motivated</label>
+                <label for="radio-choice-c">food driven</label>
                 <input type="radio" name="motivation" id="radio-choice-d" value="off" />
-                <label for="radio-choice-d">Toy Motivated</label>
+                <label for="radio-choice-d">toy motivated</label>
           </fieldset>
       </div>
 
       <div data-role="fieldcontain">
           <fieldset data-role="controlgroup" data-type="horizontal">
                 <input type="radio" name="new-people" id="radio-choice-c" value="on" checked="checked" />
-                <label for="radio-choice-c">Likes new people</label>
+                <label for="radio-choice-c">♥ new people</label>
                 <input type="radio" name="new-people" id="radio-choice-d" value="off" />
-                <label for="radio-choice-d">Hides from people</label>
+                <label for="radio-choice-d">shy w/people</label>
           </fieldset>
       </div>
 
       <div data-role="fieldcontain">
           <fieldset data-role="controlgroup" data-type="horizontal">
                 <input type="radio" name="new-dogs" id="radio-choice-c" value="on" checked="checked" />
-                <label for="radio-choice-c">Likes new dogs</label>
+                <label for="radio-choice-c">♥ new dogs</label>
                 <input type="radio" name="new-dogs" id="radio-choice-d" value="off" />
-                <label for="radio-choice-d">Hides from dogs</label>
+                <label for="radio-choice-d">shy w/dogs</label>
           </fieldset>
       </div>
 

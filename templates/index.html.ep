@@ -1,13 +1,13 @@
-<label><input type="checkbox" name="checkbox-0" />Bathrooms</label>
-<label><input type="checkbox" name="checkbox-0" />Closets</label>
-<label><input type="checkbox" name="checkbox-0" />Bedrooms</label>
-<label><input type="checkbox" name="checkbox-0" />Cabinets</label>
-<label><input type="checkbox" name="checkbox-0" />Favorite Hiding Spots</label>
-<label><input type="checkbox" name="checkbox-0" />Kitchen</label>
-<label><input type="checkbox" name="checkbox-0" />Under Furniture</label>
-<label><input type="checkbox" name="checkbox-0" />Under Beds</label>
-<label><input type="checkbox" name="checkbox-0" />Back Yard</label>
-<label><input type="checkbox" name="checkbox-0" />Front Yard</label>
-<label><input type="checkbox" name="checkbox-0" />Garage</label>
+<b>DON'T PANIC!!!</b>
 
-<a href="/nearby" data-role="button">Let's search nearby...</a>
+<img width="100%" src="/smiling-dog-2.jpg">
+
+<p>If you're here, it's because you looked up, expecting to see your furry friend, and have now realized that your dog is nowhere to be found. Well, the most important
+thing to do is <b>do not panic</b>. The next 60 minutes are crucial to reuniting you and your lifelong companion safely and effectively.</p>
+
+<p>This app will guide you through time proven steps, based on our research and the collected wisdom of the internet and personal interviews, on how it is owners
+successfully negotiate this first scary hour logically, effectively, and without being ruled by fear or emotion.</p>
+
+<p>Take a deep breath, collect yourself, and let's get to finding your best friend!</p>
+
+<a href="/at_home" data-role="button">Let's search around the house...</a>

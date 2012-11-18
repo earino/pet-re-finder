@@ -1,0 +1,9 @@
+<h2>It's time to get everyone involved</h2>
+
+<p>Go on twitter. Tell everyone on twitter to RT that your dog is missing, and see if you can get them to come over to help you widen your search<p>
+<a href="https://twitter.com/share" class="twitter-share-button" data-size="large" data-lang="en" data-url="/uniqueid" data-text="Help me! My dog <%= session 'name' %> is mising! RT and contact to help!">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+<p>Call your local animal control: <a href="https://www.google.com/search?q=local+animal+control">find it here</a></p>
+<p>Call your vet, they want to find your dog almost as much as you do</p>
+<p>Make lost pet flyers using <a href="http://www.petbond.com/flyerentry.php">this free online tool</a>. Put them up at major intersections</p>
