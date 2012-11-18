@@ -1,0 +1,1 @@
+require 'bin/myapp.pl';
