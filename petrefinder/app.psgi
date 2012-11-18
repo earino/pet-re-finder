@@ -1,1 +1,1 @@
-require 'bin/myapp.pl';
+require 'myapp.pl';
