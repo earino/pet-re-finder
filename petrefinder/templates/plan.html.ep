@@ -21,7 +21,7 @@ var timer = setInterval(function() {
    sec--;
 
    if (sec == -1) {
-      alert("Time is up");
+      alert("Haven't found your dog yet? Time to change our strategy.");
       $('#hideMsg').fadeOut('fast');
       $('#motivateMsg').fadeIn('fast');
       clearInterval(timer);
@@ -31,7 +31,7 @@ var timer = setInterval(function() {
 </script>
 
 <div id="hideMsg">
-<h2>You're going to spend <span>30:00</span> minutes looking in your nearby area, using your dog's personality to reunite you.</h2>
+<h2>You're going to spend <span>30:00</span> minutes looking in your nearby area, using your dog's personality to help reunite you.</h2>
 </div>
 
 <div id="motivateMsg">

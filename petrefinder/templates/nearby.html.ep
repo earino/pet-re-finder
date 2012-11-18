@@ -1,9 +1,10 @@
   <form method="post">
+      <img src="/funny-dogs-tongue.jpg" width="100%"/>
+      <p>Tell us a little bit about your dog so we can help you search more efficiently...</p>
+
       <div data-role="fieldcontain">
            <input type="text" placeholder="dogs name..." name="name" id="name" value=""  />
       </div>
-
-      <p>Tell us a little bit about your dog so we can help you search more efficiently...</p>
 
       <legend>My dog:</legend>
 
