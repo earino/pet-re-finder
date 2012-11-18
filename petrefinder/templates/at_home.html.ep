@@ -1,0 +1,22 @@
+<img src="/dog-hiding.jpg" width="100%"/>
+
+<p>Most of the time, dogs are hiding somewhere they are comfortable. Usually the dog is comfy and asleep somewhere in the house, while you are running
+around like crazy imagining the worst. Before we get too worked up, let's check some common areas in the house where it's possible your dog has found a
+comfy hidey hole and is enjoying a good nap.</p>
+
+<p>I have checked in the:</p>
+<label><input type="checkbox" name="checkbox-0" />Bathrooms</label>
+<label><input type="checkbox" name="checkbox-0" />Closets</label>
+<label><input type="checkbox" name="checkbox-0" />Bedrooms</label>
+<label><input type="checkbox" name="checkbox-0" />Cabinets</label>
+<label><input type="checkbox" name="checkbox-0" />Favorite Hiding Spots</label>
+<label><input type="checkbox" name="checkbox-0" />Kitchen</label>
+<label><input type="checkbox" name="checkbox-0" />Under Furniture</label>
+<label><input type="checkbox" name="checkbox-0" />Under Beds</label>
+<label><input type="checkbox" name="checkbox-0" />Back Yard</label>
+<label><input type="checkbox" name="checkbox-0" />Front Yard</label>
+<label><input type="checkbox" name="checkbox-0" />Garage</label>
+
+<p>Nope, not in any of those places... </p>
+
+<a href="/nearby" data-role="button">Let's search nearby...</a>

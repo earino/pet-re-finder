@@ -1,0 +1,92 @@
+<script language="javascript">
+$(document).ready(function(){
+  $('#motivateMsg').hide();
+function zeroFill( number, width )
+{
+  width -= number.toString().length;
+  if ( width > 0 )
+  {
+    return new Array( width + (/\./.test( number ) ? 2 : 1) ).join( '0' ) + number;
+  }
+  return number + ""; // always return a string
+}
+
+var sec = 60 * 30;
+var timer = setInterval(function() {
+   var minutes = parseInt(sec / 60);
+   var seconds = zeroFill(sec % 60, 2);
+   var timeval = "" + minutes + ":" + seconds;
+   $('#hideMsg span').text(timeval);
+
+   sec--;
+
+   if (sec == -1) {
+      alert("Haven't found your dog yet? Time to change our strategy.");
+      $('#hideMsg').fadeOut('fast');
+      $('#motivateMsg').fadeIn('fast');
+      clearInterval(timer);
+   } 
+}, 1000);
+});
+</script>
+
+<div id="hideMsg">
+<h2>You're going to spend <span>30:00</span> minutes looking in your nearby area, using your dog's personality to help reunite you.</h2>
+</div>
+
+<div id="motivateMsg">
+  <h2>If you haven't found <%= $name %> yet, it's time to get everyone involved.</h2>
+  <a href="/launch" data-role="button">CLICK ME TO GET HELP!</a>
+</div>
+
+<p>Here are some suggestions to help you look in a methodical way:</p>
+
+<div data-role="collapsible" data-collapsed="false">
+% if ($when_called eq "on") {
+  <h3><%= $name %> comes when called, so...</h3>
+Walk around nearby (within a few hundred feet of the house) calling for your dog with a calm voice.
+% } else {
+  <h3><%= $name %> runs the other way, so...</h3>
+Walk away from your house as if you were going on a walk, looking on streets & sidewalks for clues about your dog's journey
+% }
+</div>
+
+<div data-role="collapsible" data-collapsed="false">
+% if ($walks eq "on") {
+  <h3><%= $name %> likes to go on long walks, so...</h3>
+Look in a wider search area, since <%= $name %> may have traveled far!
+% } else {
+  <h3><%= $name %> likes to go on short walks, so...</h3>
+Look near your house.
+% }
+</div>
+
+<div data-role="collapsible" data-collapsed="false">
+% if ($new_people eq "on") {
+  <h3><%= $name %> is treat or food motivated, so...</h3>
+Take a favorite treat or treat jar, opening it up while you are walking. The noise & smell can get the dog's attention.
+% } else {
+  <h3><%= $name %> is motivated by toys and play, so...</h3>
+Take a favorite toy with you, move it around and make noises with it while you are walking. The noise & smell can get the dog's attention.
+% }
+</div>
+
+<div data-role="collapsible" data-collapsed="false">
+% if ($new_people eq "on") {
+  <h3><%= $name %> likes new people, so...</h3>
+Have neighbors or others nearby help you.
+% } else {
+  <h3><%= $name %> is shy around new people, so... </h3>
+Have people the dog likes and will respond to help you look for the dog.
+% }
+</div>
+
+<div data-role="collapsible" data-collapsed="false">
+% if ($new_dogs eq "on") {
+  <h3><%= $name %> likes new dogs, so...</h3>
+If you can, take another dog with you, and look in 'dog hotspots' nearby, like a neighborhood park.
+% } else {
+  <h3><%= $name %> is shy around new dogs, so...</h3>
+Look for places where the dog may be hiding, rather than where he may be roaming.
+% }
+</div>

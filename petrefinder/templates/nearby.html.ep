@@ -1,0 +1,57 @@
+  <form method="post">
+      <img src="/funny-dogs-tongue.jpg" width="100%"/>
+      <p>Tell us a little bit about your dog so we can help you search more efficiently...</p>
+
+      <div data-role="fieldcontain">
+           <input type="text" placeholder="dogs name..." name="name" id="name" value=""  />
+      </div>
+
+      <legend>My dog:</legend>
+
+      <div data-role="fieldcontain">
+          <fieldset data-role="controlgroup" data-type="horizontal">
+                <input type="radio" name="when-called" id="radio-choice-c" value="on" checked="checked" />
+                <label for="radio-choice-c">Comes to you</label>
+                <input type="radio" name="when-called" id="radio-choice-d" value="off" />
+                <label for="radio-choice-d">Runs Away</label>
+          </fieldset>
+      </div>
+
+      <div data-role="fieldcontain">
+          <fieldset data-role="controlgroup" data-type="horizontal">
+                <input type="radio" name="walks" id="radio-choice-c" value="on" checked="checked" />
+                <label for="radio-choice-c">♥ long walks</label>
+                <input type="radio" name="walks" id="radio-choice-d" value="off" />
+                <label for="radio-choice-d">♥ short walks</label>
+          </fieldset>
+      </div>
+
+      <div data-role="fieldcontain">
+          <fieldset data-role="controlgroup" data-type="horizontal">
+                <input type="radio" name="motivation" id="radio-choice-c" value="on" checked="checked" />
+                <label for="radio-choice-c">food driven</label>
+                <input type="radio" name="motivation" id="radio-choice-d" value="off" />
+                <label for="radio-choice-d">toy motivated</label>
+          </fieldset>
+      </div>
+
+      <div data-role="fieldcontain">
+          <fieldset data-role="controlgroup" data-type="horizontal">
+                <input type="radio" name="new-people" id="radio-choice-c" value="on" checked="checked" />
+                <label for="radio-choice-c">♥ new people</label>
+                <input type="radio" name="new-people" id="radio-choice-d" value="off" />
+                <label for="radio-choice-d">shy w/people</label>
+          </fieldset>
+      </div>
+
+      <div data-role="fieldcontain">
+          <fieldset data-role="controlgroup" data-type="horizontal">
+                <input type="radio" name="new-dogs" id="radio-choice-c" value="on" checked="checked" />
+                <label for="radio-choice-c">♥ new dogs</label>
+                <input type="radio" name="new-dogs" id="radio-choice-d" value="off" />
+                <label for="radio-choice-d">shy w/dogs</label>
+          </fieldset>
+      </div>
+
+    <input type="submit" value="Ok! Show me the plan..."/>
+</form>
