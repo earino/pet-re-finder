@@ -11,7 +11,7 @@ function zeroFill( number, width )
   return number + ""; // always return a string
 }
 
-var sec = 60; // * 30;
+var sec = 60 * 30;
 var timer = setInterval(function() {
    var minutes = parseInt(sec / 60);
    var seconds = zeroFill(sec % 60, 2);
